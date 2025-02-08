@@ -1,0 +1,25 @@
+Project Title (Super Stores Sales Using Power BI)
+Project Description ( This Project Analyzes Super Stores Data To find Sales)
+Tools Used ( SQL , Power BI , Excel )
+
+# Netflix Data Analysis using SQL
+
+## 📌 Project Description  
+This project analyzes Netflix datasets to find trends in content availability, top genres, and regional preferences.  
+
+## 🛠️ Tools Used  
+- SQL (MySQL)  
+- Python (Pandas, Matplotlib)  
+
+## 📊 Key Insights  
+✔ Most Netflix content is from the US  
+✔ Drama is the most popular genre  
+✔ Peak content release years: 2018-2020  
+
+## 🖼️ Screenshots  
+![Netflix Genre Analysis](link-to-image)  
+
+## 🚀 How to Run  
+1. Download the dataset from [Netflix Kaggle Dataset](https://www.kaggle.com/netflix-dataset)  
+2. Run the SQL queries in MySQL/PostgreSQL  
+3. Use Python for visualization  
